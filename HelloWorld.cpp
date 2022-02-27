@@ -3,6 +3,8 @@
 // 
 // History:
 // 2022.02.26
+//  - set languge standard to “ISO C++ Latest (/std:c++latest)”
+//  https://www.learncpp.com/cpp-tutorial/configuring-your-compiler-choosing-a-language-standard/
 //  - turned warning levels up to the maximum
 //  https://www.learncpp.com/cpp-tutorial/configuring-your-compiler-warning-and-error-levels/
 //  - disabled language extensions
