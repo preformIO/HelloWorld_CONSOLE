@@ -1,5 +1,7 @@
 # HelloWorld
 
+C++ Console "Hello World!" application based on [learncpp.com](https://www.learncpp.com).
+
 ## History:
 
 ### 2022.02.26
