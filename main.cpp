@@ -21,6 +21,8 @@ int main()
 {
     std::cout << "Hello World!\n";
 
+    // if your application quits immediately after opening console, uncomment block below to trouble-shoot
+    /*
     // force appliction to stay running until user presses enter key
     // ---------------------------------------------------------------
     std::cin.clear(); // reset any error flags
@@ -28,6 +30,8 @@ int main()
     // enter character
     std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); 
     std::cin.get(); // get one more char from the user
+    */
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
